@@ -2,7 +2,7 @@ Todd Wilson
 
 Student at Utah State University majoring in Electrical Engineering
 
-Network Administrator at Central Valley Machine
+Center for Space Engineering
 
 <!--
 **TGWil/TGWil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
